@@ -110,7 +110,7 @@ public class GildedRose {
     }
     
     //getter
-    public List<Item> getItems() {
+    public static List<Item> getItems() {
     	return items;
     }
     //setter
